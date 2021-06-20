@@ -1,3 +1,3 @@
 # micro-std
-
-It containes only one controller with one end point as /
+This is a student microservice.
+It containes only one controller with one end point as /std
